@@ -1,0 +1,54 @@
+TO DO FOR WEEK 1 : Getting a development envoierment 
+ - install a LAMP stak ( Easy PHP )
+ - find out the ip of the server 127001 
+ - find out the port of the sever 
+ - find out where should we put the files on the disk www route 
+ - clone the project in www route 
+ - create our first "Hello world!" file and run it in the browser 
+ - Easy PHP also install My SQL? if doesn't we have to install it 
+ - find out how to conect to the My SQL server : IP adrress, port, user name and password. Most likely we will be asked for the route password 
+ - find out where my sql client is in the easy php (ussual php my admin, adminer)
+ - use the my sql client to connect to the server 
+ - create our first table 
+ - add few records in it with some random information
+ = find out how to connect to the my sql server to the php and how to run a query 
+ - make a query which selects our information from the table php
+ - echo the information of results of the query (probably with a for) 
+
+USER STORIES
+	- Home landing Page 
+		- banner for week sales
+	- Header should contain:
+	 	- Home Page 
+	 	- Products
+	 	- Sales
+	 	- Contact 
+	- Products landing page shoulg contain:
+		- a list with all the categories 
+		- in the content should appear pictures with all new arrivals products
+
+
+	- Sales landing page
+		- pictures with random products with random prices
+		- keep the list with all the categories 
+
+	- Inspiration 
+		- pictures with outfits with our products for different ocasions 
+
+	- Footer should contatin:
+		- Help
+		- Information 
+		- About DZ
+		= Contact 
+
+ROLE MAP 
+
+SPRINGURI
+Week 1
+Week 2
+Week 3
+Week 4
+Week 5
+Week 6
+Week 7
+Week 8
